@@ -65,9 +65,6 @@ int main() {
 
     while(!(win)){
         if(option == 'B'){
-INSTRUCTOR
-| 12/05 AT 3:53 PM
-Please remember to include comments for code blocks within functions!
 
             int boardSize = 0;
             cout << "Choose your board size (must be a number greater than or equal to 4): ";
